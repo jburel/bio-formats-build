@@ -1,44 +1,44 @@
 [submodule "ome-common-java"]
 	path = ome-common-java
-	url = https://github.com/ome/ome-common-java.git
-	branch = master
+	url = https://github.com/jburel/ome-common-java.git
+	branch = develop_merge_trigger
 [submodule "ome-model"]
 	path = ome-model
-	url = https://github.com/ome/ome-model.git
-	branch = master
+	url = https://github.com/jburel/ome-model.git
+	branch = develop_merge_trigger
 [submodule "ome-poi"]
 	path = ome-poi
-	url = https://github.com/ome/ome-poi.git
-	branch = master
+	url = https://github.com/jburel/ome-poi.git
+	branch = develop_merge_trigger
 [submodule "ome-mdbtools"]
 	path = ome-mdbtools
-	url = https://github.com/ome/ome-mdbtools.git
-	branch = master
+	url = https://github.com/jburel/ome-mdbtools.git
+	branch = develop_merge_trigger
 [submodule "ome-jai"]
 	path = ome-jai
-	url = https://github.com/ome/ome-jai.git
-	branch = master
+	url = https://github.com/jburel/ome-jai.git
+	branch = develop_merge_trigger
 [submodule "ome-codecs"]
 	path = ome-codecs
-	url = https://github.com/ome/ome-codecs.git
-	branch = master
+	url = https://github.com/jburel/ome-codecs.git
+	branch = develop_merge_trigger
 [submodule "ome-metakit"]
 	path = ome-metakit
-	url = https://github.com/ome/ome-metakit.git
-	branch = master
+	url = https://github.com/jburel/ome-metakit.git
+	branch = develop_merge_trigger
 [submodule "ome-stubs"]
 	path = ome-stubs
-	url = https://github.com/ome/ome-stubs.git
-	branch = master
+	url = https://github.com/jburel/ome-stubs.git
+	branch = develop_merge_trigger
 [submodule "bioformats"]
 	path = bioformats
-	url = https://github.com/openmicroscopy/bioformats.git
-	branch = develop
+	url = https://github.com/jburel/bioformats.git
+	branch = develop_merge_trigger
 [submodule "bio-formats-documentation"]
 	path = bio-formats-documentation
-	url = https://github.com/ome/bio-formats-documentation.git
-	branch = master
+	url = https://github.com/jburel/bio-formats-documentation.git
+	branch = develop_merge_trigger
 [submodule "bio-formats-examples"]
 	path = bio-formats-examples
-	url = https://github.com/ome/bio-formats-examples.git
-	branch = master
+	url = https://github.com/jburel/bio-formats-examples.git
+	branch = develop_merge_trigger
